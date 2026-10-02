@@ -67,14 +67,3 @@ El **CSES Problem Set** es un conjunto de problemas de programación mantenido p
 
 <br />
 
-## Entorno de Desarrollo
-
-<details>
-<summary><b>Compilación y Ejecución</b></summary>
-
-<br />
-
-Las soluciones están escritas en **C++** y preparadas para ser compiladas con las banderas estándar de optimización:
-
-```bash
-g++ -O2 -std=c++17 -Wall Trailing_Zeros.cpp -o salida
